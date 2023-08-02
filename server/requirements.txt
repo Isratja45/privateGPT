@@ -19,7 +19,7 @@ colorama==0.4.6
 colorclass==2.2.2
 commonmark==0.9.1
 compressed-rtf==1.0.6
-cryptography==40.0.2
+cryptography==41.0.3
 dataclasses-json==0.5.7
 Deprecated==1.2.13
 duckdb==0.8.0
